@@ -1,5 +1,7 @@
 # Foundation libsass template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/epeli/skydivejkl-theme-old.svg)](https://greenkeeper.io/)
+
 This is a template to start your own project that uses Grunt and libsass!
 
 ## Requirements
