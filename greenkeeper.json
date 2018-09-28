@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "bower_components/jquery/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
